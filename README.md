@@ -1,6 +1,6 @@
 # shopify
 
-A new Flutter application.
+A new Flutter E-Commerce application with admin panel connected to firebase for an online gadgets store.
 
 ## Getting Started
 
