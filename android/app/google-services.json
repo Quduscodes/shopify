@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895811732609",
+    "project_id": "dee-gadgets",
+    "storage_bucket": "dee-gadgets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895811732609:android:d62f51c88e9668d3c4b980",
+        "android_client_info": {
+          "package_name": "taskcomics.deegadgets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895811732609-4t061msmdadrf5qm7b7ak29rrfddsdrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnLDNHNkEY_y3p1PB4aiIYcaDtln6fbmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895811732609-4t061msmdadrf5qm7b7ak29rrfddsdrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
